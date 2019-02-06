@@ -1,0 +1,219 @@
+[
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549394058000,
+            "changeTime": 1549391026855,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549426690000,
+            "changeTime": 1549391026485,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1549426690000,
+            "changeTime": 1549393487277,
+            "contentHash": "8d172763c2c41e10643799e3ffc7a5695d93787c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1548451517000,
+            "changeTime": 1548451517498,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1549426690000,
+            "changeTime": 1549426690690,
+            "contentHash": "21c2b5f96aa4b27a02789a986bbdbb99d667b205",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1549426691000,
+            "changeTime": 1549392048872,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1549393487279,
+            "changeTime": 1549393487279,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1549393488000,
+            "changeTime": 1549393487279,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1549394058000,
+            "changeTime": 1549394058621,
+            "contentHash": "71a3c48428eff9d1765b77c1ef16403c7159f9ff",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.html",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.html",
+            "isDirectory": false,
+            "size": 315,
+            "modifiedTime": 1549394383486,
+            "changeTime": 1549394383486,
+            "contentHash": "a4bc1cf538dd64e49997b5758cd33cc793b494e0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.js",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.js",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1549394177141,
+            "changeTime": 1549394177141,
+            "contentHash": "16778e23e290debd4f17c1a5db292fcf3a5ea4ee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.js-meta.xml",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldTest/helloWorldTest.js-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1549393991374,
+            "changeTime": 1549393991374,
+            "contentHash": "aae6e043c2e483f3efc5e3d5dad0dff534f8f1da",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1549422195000,
+            "changeTime": 1549422195436,
+            "contentHash": "c4697e16fb50a192168024b59b991375a3207952",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.html",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.html",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1549426797776,
+            "changeTime": 1549426797776,
+            "contentHash": "344a4699e083c19e4d9ac305efab89e90e55813b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.js",
+        {
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1549422705059,
+            "changeTime": 1549422705059,
+            "contentHash": "c7d3d2014741dd52b962673836b4fc17a90a370a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/admin/Documents/SFDX PROJECTS/HelloWorldLightningWebComponent/force-app/main/default/lwc/helloWorldRenderer/helloWorldRenderer.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1549427132465,
+            "changeTime": 1549427132465,
+            "contentHash": "c91baf23d1939a8b0142b9f4fd939b89ba97b496"
+        }
+    ]
+]
