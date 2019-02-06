@@ -4,7 +4,7 @@ export default class HelloWorldTest extends LightningElement {
     
     @track greeting = 'World';
 
-    handleCh(even) {
-        this.greeting = even.target.value;
+    handleChange(event) {
+        this.greeting = event.target.value;
     }
 }
